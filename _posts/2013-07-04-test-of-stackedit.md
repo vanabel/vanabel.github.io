@@ -1,3 +1,12 @@
+---
+layout: post
+title: "post template.md"
+description: ""
+category: SiteStaff
+tags: [test,stackedit,github,mathjax]
+---
+{% include JB/setup %}
+
 Can StackEdit work in Github??
 
 Let us have a test:
