@@ -1,0 +1,12 @@
+
+http://vanabel.github.io/atom.xml
+http://vanabel.github.io/rss.xml
+http://vanabel.github.io/archive.html
+http://vanabel.github.io/categories.html
+http://vanabel.github.io/page-template.html
+http://vanabel.github.io/pages.html
+http://vanabel.github.io/index.html
+http://vanabel.github.io/sitemap.txt
+http://vanabel.github.io/tags.html
+
+http://vanabel.github.io/2013/07/04/post-templatemd

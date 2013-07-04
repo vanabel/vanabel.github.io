@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Vanabel.github.io</title>
+ <link href="http://vanabel.github.io/" rel="self"/>
+ <link href="http://vanabel.github.io"/>
+ <updated>2013-07-04T16:29:25+08:00</updated>
+ <id>http://vanabel.github.io</id>
+ <author>
+   <name>Van Abel</name>
+   <email>van141.abel@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>post template.md</title>
+   <link href="http://vanabel.github.io/2013/07/04/post-templatemd"/>
+   <updated>2013-07-04T00:00:00+08:00</updated>
+   <id>http://vanabel.github.io/2013/07/04/post-templatemd</id>
+   <content type="html"></content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Vanabel.github.io</title>
+        <description>Vanabel.github.io - Van Abel</description>
+        <link>http://vanabel.github.io</link>
+        <link>http://vanabel.github.io</link>
+        <lastBuildDate>2013-07-04T16:29:25+08:00</lastBuildDate>
+        <pubDate>2013-07-04T16:29:25+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>post template.md</title>
+                <description></description>
+                <link>http://vanabel.github.io/2013/07/04/post-templatemd</link>
+                <guid>http://vanabel.github.io/2013/07/04/post-templatemd</guid>
+                <pubDate>2013-07-04T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
