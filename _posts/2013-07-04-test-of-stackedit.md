@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "test-of stackedit.md"
+title: "test of stackedit.md"
 description: ""
 category: SiteStaff
 tags: [test,stackedit,github,mathjax]
